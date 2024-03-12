@@ -33,11 +33,11 @@ export const Hero: React.FC = () => {
             Sync seamlessly across devices 📱 💻 🖥️
           </p>
           <div className='space-y-4 sm:flex sm:space-y-0 sm:space-x-4'>
-            <Link href='https://github.com/themesberg/Acme Note'>
+            <Link href='#'>
               Try it on Web
             </Link>
             <Link
-              href='https://www.figma.com/community/file/1125744163617429490'
+              href='#'
               className='text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg'
             >
               Get Started for Free!
