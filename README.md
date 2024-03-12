@@ -2,6 +2,10 @@
 
 Welcome to the open-source repository for the landing page of **Acme Note**! This repository contains the code for the website that introduces users to your notes app and encourages them to explore further.
 
+## Website Performance
+
+<img alt="Website Performance" src="https://res.cloudinary.com/dxgzmbvy8/image/upload/v1710280158/Screenshot_2024-03-13_at_3.17.23_AM_mgg57t.png" width="600" style="display: block; margin: 0 auto"/>
+
 ## Table of Contents
 
 - Introduction
